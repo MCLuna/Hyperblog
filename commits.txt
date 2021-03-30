@@ -1,0 +1,91 @@
+commit b2d35d3e95517b92c5017958f6858bd16f23c8b8
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Tue Mar 30 16:52:41 2021 -0500
+
+    version titulo2
+
+commit a0ee7cd57d9909c20b2540ba1551d3b07058d940
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Tue Mar 30 16:29:56 2021 -0500
+
+    nuevo item
+
+commit 9c7117275b5f2feb43aeec8c41653f9d662513e0
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 20:53:22 2021 -0500
+
+    + tag
+
+commit 2bcfddbd4e726abbd15d705ee65c8d8aa4c9185d
+Author: MCLuna <61129902+MCLuna@users.noreply.github.com>
+Date:   Wed Mar 24 20:45:30 2021 -0500
+
+    cambio titulo
+
+commit 59014b8609666b3c5d3b649186bb57c8084fb63a
+Author: MCLuna <61129902+MCLuna@users.noreply.github.com>
+Date:   Wed Mar 24 20:38:55 2021 -0500
+
+    Create README.md
+
+commit 8311df40241ad95ea2fa608cd5e085ba7bd96fe9
+Merge: 1667e95 a280130
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 19:39:36 2021 -0500
+
+    Merge branch 'cabecera'
+
+commit a2801309fc5a0014d5483e8e0d74a55bad68d0f6
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 19:39:05 2021 -0500
+
+    otro tag
+
+commit 1667e95a6b4247fd3ab804e8c8e2cf14a41d7e35
+Merge: d8781d0 7b9a21b
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 19:35:10 2021 -0500
+
+    union
+
+commit d8781d079b0a55d9e6339bd7c7d4b0d0e9467ef6
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 19:27:02 2021 -0500
+
+    nueva tipografia
+
+commit 7b9a21bade1e5f57ec75e759d4f513c8c0aa8861
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 19:22:36 2021 -0500
+
+    final de la cabecera
+
+commit 492d3471c3c39f8a2c6700eff5bd8b0ce8919aa8
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 17:44:24 2021 -0500
+
+    estructura incial de la cabecera
+
+commit c8dc502ea8a394231f54f201168beae6ebf10a7c
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 17:39:10 2021 -0500
+
+    nuevo estilo
+
+commit 11b9b076de2b833b7c4fda517858b6b1f0a266a1
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Wed Mar 24 16:51:32 2021 -0500
+
+    proyecto con html y css
+
+commit e4f21b7cf7f4b6f6f66acf22c763d6cc60b1bb15
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Tue Mar 23 22:55:53 2021 -0500
+
+    paso agregado
+
+commit f6cabfdd1d80865119ad5086b26f96e88c2d9d64
+Author: MCLuna <marcos.cerpa@gmail.com>
+Date:   Tue Mar 23 21:53:35 2021 -0500
+
+    primer commit
